@@ -1,0 +1,3 @@
+[submodule "ACL2"]
+	path = ACL2
+	url = https://github.com/SamKLowe/ACL2
